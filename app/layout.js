@@ -19,7 +19,7 @@ export default function RootLayout({ children }) {
       <Link href="/about">About</Link>
       <Link href="/services">Services</Link>
       <Link href="/team/staff-01">Team</Link>
-      <Link href="/contact" className="btn-cta">Contact</Link>
+      <Link href="/order" className="btn-cta">Pesan Sekarang</Link>
     </nav>
   </div>
 </header>
